@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MoviesLook</string>
+
+    <!--DetailActivity-->
+    <string name="sizeBig">w500</string>
+
+    <!--ImageAdapter-->
+    <string name="sizeSmall">w185</string>
+
+    <!--MovieParse-->
+    <string name="Results">results</string>
+    <string name="Title">title</string>
+    <string name="Poster_Path">poster_path</string>
+    <string name="Plot">overview</string>
+    <string name="Release_Date">release_date</string>
+    <string name="User_Rating">vote_average</string>
+
+    <!--NetworkUtils-->
+    <string name="Movie_Base_Url">https://api.themoviedb.org/3/movie</string>
+    <string name="Param_Sort">sort_by</string>
+    <string name="Param_Api_key">api_key</string>
+    <string name="Popularity_Url_Path">popular</string>
+    <string name="Rating_Url_Path">top_rated</string>
+    <string name="MyKey">[YOUR_KEY]</string>
+    <string name="Poster_Base_Url">http://image.tmdb.org/t/p</string>
+    <string name="poster">Poster</string>
+    <string name="dateicon">DateIcon</string>
+    <string name="star">star</string>
+    <string name="rating">Rating</string>
+    <string name="date">Date</string>
+    <string name="network_error">NETWORK_ERROR</string>
+    <string name="setting">Setting</string>
+    <string name="sortbypopularity">SortByPopularity</string>
+    <string name="sortbyrating">SortByRating</string>
+    <string name="not_available">Not available</string>
+
+</resources>

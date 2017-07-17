@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/setting"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:id="@+id/action_setting"
+        />
+
+    <item
+        android:title="@string/sortbypopularity"
+        android:orderInCategory="2"
+        android:id="@+id/action_sortByPopularity"
+        />
+
+    <item
+        android:title="@string/sortbyrating"
+        android:orderInCategory="3"
+        android:id="@+id/action_sortByRating"
+        />
+
+</menu>
