@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\raul_Will\\.android\\build-cache\\a3131c95c816763afab677b18234ce8c750e8804\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\raul_Will\\.android\\build-cache\\a3131c95c816763afab677b18234ce8c750e8804\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\raul_Will\\.android\\build-cache\\a3131c95c816763afab677b18234ce8c750e8804\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\raul_Will\\.android\\build-cache\\a3131c95c816763afab677b18234ce8c750e8804\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

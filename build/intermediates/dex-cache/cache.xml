@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Udacity\Projects\MoviesLook\app\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Udacity\Projects\MoviesLook\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_c5f4462f5fccd17251fc910b8d310ae5fa26d078.jar" />
+    </item>
+
+</items>

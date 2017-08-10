@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:7:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\a3131c95c816763afab677b18234ce8c750e8804\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\raul_Will\.android\build-cache\fce453db421cbd8db8861e1750bf3802c9e9c4d6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\raul_Will\.android\build-cache\889688d45e8c349652817bfae4d6566c1373ae36\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\raul_Will\.android\build-cache\6f798356d1c303afd580d395b5a5e72b0650829a\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\raul_Will\.android\build-cache\173b8aab8b532f4e965344324f7253dab3eede6a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\raul_Will\.android\build-cache\c84a844820e06180698d66b17fea320687d8f3c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\raul_Will\.android\build-cache\dc6ded115bc31d17d18cd630376f9d597ab0e75a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\raul_Will\.android\build-cache\c532074c0eef78c2564309076759def69f771681\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\raul_Will\.android\build-cache\e9ca688a7d43db06478b4daada82965f20a9a238\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\raul_Will\.android\build-cache\648de1e9c3bf5923e80cefbcb419ebe82a6b79ac\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:13:9-35
+	android:fullBackupContent
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:9:9-59
+	android:roundIcon
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:12:9-50
+	android:allowBackup
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.rahulxyz.movieslook.MainActivity
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.rahulxyz.movieslook.DetailActivity
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:parentActivityName
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:24:13-55
+	android:theme
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:23:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:26:13-28:49
+	android:value
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:28:17-46
+	android:name
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:27:17-63
+provider#com.rahulxyz.movieslook.database.MovieProvider
+ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:31:9-34:40
+	android:authorities
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:33:13-67
+	android:exported
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml:32:13-51
+uses-sdk
+INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\a3131c95c816763afab677b18234ce8c750e8804\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\raul_Will\.android\build-cache\fce453db421cbd8db8861e1750bf3802c9e9c4d6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\raul_Will\.android\build-cache\889688d45e8c349652817bfae4d6566c1373ae36\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\raul_Will\.android\build-cache\6f798356d1c303afd580d395b5a5e72b0650829a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\7dd6a8320c69868dd6b279d15a70fb4efee7e6db\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\raul_Will\.android\build-cache\b4343ff5f6547e65f459af95dc220d17038105f0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\raul_Will\.android\build-cache\6cf8faa0b15cb68c34271bf03486ac7cf680dd76\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\raul_Will\.android\build-cache\173b8aab8b532f4e965344324f7253dab3eede6a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\raul_Will\.android\build-cache\c84a844820e06180698d66b17fea320687d8f3c2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\raul_Will\.android\build-cache\dc6ded115bc31d17d18cd630376f9d597ab0e75a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\raul_Will\.android\build-cache\c532074c0eef78c2564309076759def69f771681\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\raul_Will\.android\build-cache\e9ca688a7d43db06478b4daada82965f20a9a238\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\raul_Will\.android\build-cache\648de1e9c3bf5923e80cefbcb419ebe82a6b79ac\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\a3131c95c816763afab677b18234ce8c750e8804\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Udacity\Projects\MoviesLook\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\a3131c95c816763afab677b18234ce8c750e8804\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\raul_Will\.android\build-cache\fce453db421cbd8db8861e1750bf3802c9e9c4d6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\raul_Will\.android\build-cache\889688d45e8c349652817bfae4d6566c1373ae36\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\7dd6a8320c69868dd6b279d15a70fb4efee7e6db\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\raul_Will\.android\build-cache\173b8aab8b532f4e965344324f7253dab3eede6a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\raul_Will\.android\build-cache\c84a844820e06180698d66b17fea320687d8f3c2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\raul_Will\.android\build-cache\dc6ded115bc31d17d18cd630376f9d597ab0e75a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\raul_Will\.android\build-cache\c532074c0eef78c2564309076759def69f771681\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\raul_Will\.android\build-cache\e9ca688a7d43db06478b4daada82965f20a9a238\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\raul_Will\.android\build-cache\648de1e9c3bf5923e80cefbcb419ebe82a6b79ac\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\a3131c95c816763afab677b18234ce8c750e8804\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\raul_Will\.android\build-cache\a3131c95c816763afab677b18234ce8c750e8804\output\AndroidManifest.xml:26:9-47

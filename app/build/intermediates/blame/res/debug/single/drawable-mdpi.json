@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_rating.png",
+        "source": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_rating.png"
+    },
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_starlike.png",
+        "source": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_starlike.png"
+    },
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_starunlike.png",
+        "source": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_starunlike.png"
+    },
+    {
+        "merged": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_playicon.png",
+        "source": "E:\\Udacity\\Projects\\MoviesLook\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_playicon.png"
+    }
+]
